@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RebornAssignment02</string>
+    <string name="remove">Xoa</string>
+    <string name="add_image">Them anh chu de</string>
+    <string name="choose">Chon anh</string>
+    <string name="lay_chu_de">Lay chu de</string>
+</resources>
